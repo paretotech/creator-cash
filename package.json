@@ -52,6 +52,7 @@
     ]
   },
   "scripts": {
-  "start": "serve -s build"
+  "start": "serve -s build",
+  "build": "react-scripts build"
 }
 }
